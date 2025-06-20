@@ -1,0 +1,9 @@
+{
+  "name": "Integración de Pedidos",
+  "short_name": "Pedidos",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "App para integrar packing lists a inventario",
+  "icons": []
+}
